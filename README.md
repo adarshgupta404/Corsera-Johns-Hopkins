@@ -1,1 +1,1 @@
-# Corsera-Johns-Hopkins
+# Coursera-Johns-Hopkins
